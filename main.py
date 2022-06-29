@@ -1,3 +1,5 @@
+'''create recommendations for a user'''
+
 import pandas as pd
 from recommender import recommend_random
 
